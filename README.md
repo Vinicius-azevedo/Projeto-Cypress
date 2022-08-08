@@ -32,10 +32,10 @@ npm install -D cypress@4.1 (o framework já está na versão 10 porém essa vers
 A partir daí podemos verificar toda a execução dos testes na pasta integration do cypress
 ```
 
-## 🎁 Ajuda sobre este projeoto
+## 🎁 Agradecimentos sobre este projeoto
 
 <p>
-Podem encontrar ajuda sobre este projeto no link abaixo do GitHub.
+Agradecimentos sobre o projeto 2.
 </p>
 
 * https://www.4intelligence.ai/pt-br/ - Agradecimentos do projeto
